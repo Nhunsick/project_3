@@ -1,4 +1,4 @@
-# 2018 House of Representative Election Forecasts 
+# 2018 House of Representatives Election Forecasts 
 
 # Business Problem
 How well can we predict the outcome of the 2018 House of Representatives election?
