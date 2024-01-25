@@ -14,7 +14,7 @@ MOV = the difference of the votes between the two major political parties then d
 
 <img src='images/mov_scale.png' width='800' height='200'>
 
-As you can see the distributions of the MOV are right-skewed. 
+As you can see the distributions of the MOV of previous elections are right-skewed. 
 <img src='images/pres_mov.png' width='800' height='400'>
 <img src='images/house_mov.png' width='500' height='300'>
 
