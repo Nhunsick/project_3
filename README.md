@@ -20,12 +20,18 @@ As you can see the distributions of the MOV are right-skewed.
 
 It may seem the Republican party is performing well in these elections, however, we need to consider population density.
 
-Here, you can see the population distribution by size of each county.
+Here, you can see the population distribution by size of each county. 
 
 <img src='images/pop.png' width='400' height='400'>
+The sizes of counties are much larger for Democratic wins than Republicans. 
+County votes do not determine the actual winner of a congressional election, the district-wide votes do, and many small counties may be outvoted by one large county.
 
-We performed multiple model types such as Logistic Regression, Decision Trees, and K-nearest neighbors(KNN). 
+&nbsp;
+
+We performed multiple model types such as Logistic Regression, Decision Trees, and K-nearest neighbors(KNN) in our analysis. 
 With KNN, having the highest accuracy score of ~80%.
+
+Here is a KNN Confusion Matrix:
 
 <img src='images/confusion_matrix.png' width='400' height='400'>
 
