@@ -12,7 +12,7 @@ Created a Margin of Victory(MOV) scale to determine how likely each political pa
 
 MOV = the difference of the votes between the two major political parties then divided by the total votes
 
-<img src='images/mov_scale.png' width='600' height='200'>
+<img src='images/mov_scale.png' width='800' height='200'>
 
 As you can see the distributions of the MOV are right-skewed. 
 <img src='images/pres_mov.png' width='800' height='400'>
