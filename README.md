@@ -9,8 +9,10 @@ How well can we predict the outcome of the 2018 House of Representatives electio
 
 # Results
 Created a Margin of Victory scale to determine how likely each political party will win a county 
+
 MOV = the difference of the votes between the two major political parties then divided by the total votes
-<img src='images/Screenshot 2024-01-25 at 1.06.08 PM' width='450' height='450'>
+
+<img src='images/mov_scale.png' width='600' height='200'>
 
 
 
