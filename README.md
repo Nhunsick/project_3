@@ -1,13 +1,23 @@
+## Repository Structure 
+```
+├── Notebooks 
+│   └── EDA.ipynb 
+│   └── Final_Notebook.ipynb (models)
+├── data
+├── images
+├── .gitignore
+└── README.md
+```
 # 2018 House of Representatives Election Forecasts 
 
-# Business Problem
+## Business Proposition
 How well can we predict the outcome of the 2018 House of Representatives election?
 
-# Data Sources
+## Data Sources
 - 2018 MIT Election Data and Science Lab
 - Dave Leip's Atlas of U.S. Elections, specifically the 2018 House of Representatives election 
 
-# Results
+## Results
 Created a Margin of Victory(MOV) scale to determine how likely each political party will win a county 
 
 MOV = the difference of the votes between the two major political parties then divided by the total votes
@@ -27,25 +37,15 @@ The sizes of counties are much larger for Democratic wins than Republicans.
 County votes do not determine the actual winner of a congressional election, the district-wide votes do, and many small counties may be outvoted by one large county.
 
 &nbsp;
-
+## Model
 We performed multiple model types such as Logistic Regression, Decision Trees, and K-nearest neighbors(KNN) in our analysis. 
+
 With KNN, having the highest accuracy score of ~80%.
 
-Here is a KNN Confusion Matrix:
+Here is the KNN Confusion Matrix:
 
 <img src='images/confusion_matrix.png' width='400' height='400'>
 
 
-# For More Information
+## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. For additional info, contact Noah Hunsicker or Julie Leung.
-
-# Repository Structure 
-```
-├── Notebooks 
-│   └── EDA.ipynb 
-│   └── Final_Notebook.ipynb (models)
-├── data
-├── images
-├── .gitignore
-└── README.md
-```
