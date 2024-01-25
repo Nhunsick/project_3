@@ -38,3 +38,12 @@ Here is a KNN Confusion Matrix:
 
 # For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. For additional info, contact Noah Hunsicker or Julie Leung.
+
+# Repository Structure 
+├── Notebooks
+│   └── EDA.ipynb
+│   └── Final_Notebook.ipynb (models)
+├── data
+├── images
+├── .gitignore
+└── README.md
