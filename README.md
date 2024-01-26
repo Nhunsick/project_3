@@ -33,7 +33,7 @@ It may seem the Republican party is performing well in these elections, however,
 Here, you can see the population distribution by size of each county. 
 
 <img src='images/pop.png' width='400' height='400'>
-The sizes of counties are much larger for Democrats than Republicans. 
+The counties where the Democrats are winning have a larger population size than the Republicans. 
 County votes do not determine the actual winner of a congressional election, the district-wide votes do, and many small counties may be outvoted by one large county.
 
 &nbsp;
