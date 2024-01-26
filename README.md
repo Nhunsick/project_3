@@ -1,7 +1,7 @@
 ## Repository Structure 
 ```
 ├── Notebooks 
-│   └── EDA.ipynb 
+│   └── EDA.ipynb (data cleaning/EDA)
 │   └── Final_Notebook.ipynb (models)
 ├── data
 ├── images
@@ -47,7 +47,7 @@ We performed multiple model types such as Logistic Regression, Decision Trees, a
 
 With KNN, having the highest accuracy score of ~80%.
 
-Here is the KNN Confusion Matrix:
+Here is the KNN Confusion Matrix: as you can see it does perform fairly well at predicting high MOV for Republicans (class 1) and high MOV for Democrats (class 6). There is some confusion at the center for classes 3 and 4 where it's a low MOV for both parties.
 
 <img src='images/confusion_matrix.png' width='400' height='400'>
 
