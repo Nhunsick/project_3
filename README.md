@@ -10,6 +10,11 @@
 ```
 # 2018 House of Representatives Election Forecasts 
 
+## Overview
+While many people think of politics as a game of charisma and character the reality is that campaigns are run and won by strategy. That strategy can take many forms from strategic policy initiatives to lobbying the right people for donations, or in our case, figuring out how likely a candidate is to win an election. In this case, we are trying to specifically focus on the likeliness that a congressional candidate wins a given county. Now you may be asking what the importance of calculating the probability of a congressional candidate winning a county is due to the fact that it is not counties but congressional districts that define the outcome of an election. While it is true that districts are what define the outcomes of elections, there are many applications for county-level data in congressional politics. Its main use is that it can help candidates identify counties that they need to improve in by visiting more often. Or it can be used for ad targeting for an advertising firm, where you can help candidates specially target their ad spending money in areas it's needed most.
+
+By utilizing machine learning we can attempt to go beyond the fallible process of political polling to find the patterns behind the outcomes of congressional elections. By the end of this notebook, we will present multiple models to you that can accurately predict both the winner of a congressional contest that has already happened as well as accurately able to predict the margin of victory for that race.
+
 ## Business Proposition
 How well can we predict the outcome of the 2018 House of Representatives election?
 
