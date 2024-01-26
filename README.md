@@ -37,22 +37,22 @@ It may seem the Republican party is performing well in these elections, however,
 
 Here, you can see the population distribution by size of each county. 
 
-<img src='images/pop2.png' width='400' height='400'>
+<img src='images/pop2.png' width='500' height='500'>
 The counties where the Democrats are winning have a larger population size than the Republicans. 
-County votes do not determine the actual winner of a congressional election, the district-wide votes do, and many small counties may be outvoted by one large county.
+County votes do not determine the actual winner of a congressional election, the district-wide votes do, and many small counties may be outvoted by a single large county.
 
 &nbsp;
-## Model
+## Best Model
 We performed multiple model types such as Logistic Regression, Decision Trees, and K-nearest neighbors(KNN) in our analysis. 
 
 With KNN, having the highest accuracy score of ~80%.
 
 Here is the KNN Confusion Matrix: as you can see it does perform fairly well at predicting high MOV for Republicans (class 1) and high MOV for Democrats (class 6). There is some confusion at the center for classes 3 and 4 where it's a low MOV for both parties.
 
-<img src='images/confusion_matrix.png' width='400' height='400'>
+<img src='images/confusion_matrix.png' width='500' height='500'>
 
 
-<img src='images/roc.png' width='400' height='400'>
+<img src='images/roc.png' width='500' height='500'>
 This shows the ROC curves for each class in the KNN model. 
 
 ## For More Information
