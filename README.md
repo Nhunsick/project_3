@@ -1,7 +1,7 @@
 ## Repository Structure 
 ```
 ├── Notebooks 
-│   └── EDA.ipynb 
+│   └── EDA.ipynb (data cleaning/EDA)
 │   └── Final_Notebook.ipynb (models)
 ├── data
 ├── images
