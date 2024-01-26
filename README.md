@@ -52,5 +52,8 @@ Here is the KNN Confusion Matrix: as you can see it does perform fairly well at 
 <img src='images/confusion_matrix.png' width='400' height='400'>
 
 
+<img src='images/roc.png' width='400' height='400'>
+This shows the ROC curves for each class in the KNN model. 
+
 ## For More Information
 See the full analysis in the Jupyter Notebook or review this presentation. For additional info, contact Noah Hunsicker or Julie Leung.
