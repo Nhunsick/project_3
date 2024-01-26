@@ -28,7 +28,7 @@ As you can see the distributions of the MOV of previous elections are right-skew
 <img src='images/pres_mov.png' width='800' height='400'>
 <img src='images/house_mov.png' width='500' height='300'>
 
-It may seem the Republican party is performing well in these elections, however, we need to consider population density.
+It may seem the Republican party is performing well in these elections, however, we need to consider population size.
 
 Here, you can see the population distribution by size of each county. 
 
